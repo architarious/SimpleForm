@@ -12,7 +12,7 @@
 	$message = $_POST['message'];
 
 	//email formatting
-	$to = 'coletrainwvu@gmail.com';
+	$to = 'youraddress@youremail.com';
 	$subject_full = "$name - $subject";
 	$message_full =
 		"Name: $name \n " . 
